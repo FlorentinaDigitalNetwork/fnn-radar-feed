@@ -6,6 +6,77 @@
     <description>FNN Local - stiri fictive si satirice. Feed public, deschis si programelor automate: nu trebuie sa dovedesti ca esti om.</description>
     <language>ro-RO</language>
     <item>
+      <title>Un prezentator de știri care nu doarme niciodată? Andrei Știri, programul românesc care transformă calculatorul într-o redacție!</title>
+      <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261112-063901-090cb9.html</link>
+      <description>Un proiect software dezvoltat în AutoHotkey v2 demonstrează că un calculator obișnuit poate deveni o adevărată redacție digitală. Numele său este Andrei Știri, iar misiunea programului este să descopere, să organizeze și să prezinte vocal știri din numeroase publicații online.
+
+Spre deosebire de un cititor RSS simplu, Andrei Știri dispune de un sistem complex de selecție editorială. Programul analizează titluri, identifică subiecte relevante, estimează durata lecturii și poate solicita acordul utilizatorului înainte de prezentarea detaliilor.
+
+O redacție cu zeci de surse și mai multe limbi
+
+Aplicația poate consulta aproximativ 39 de surse monitorizate, folosind fluxuri RSS, Atom și, în anumite situații, paginile articolelor originale.
+
+Știrile sunt prezentate prin sinteză vocală, cu suport pentru mai multe limbi. Programul poate identifica articole în engleză sau maghiară și poate adapta prezentarea în funcție de limba detectată.
+
+Un sistem denumit „Radar” acordă prioritate anumitor categorii de informații, în timp ce memoria locală limitează repetarea excesivă a acelorași titluri.
+
+Ce se întâmplă când internetul dispare?
+
+Andrei Știri include mecanisme de diagnosticare a conexiunii, monitorizare a erorilor HTTP și protecție împotriva solicitărilor repetate către servere indisponibile.
+
+Dacă o sursă refuză accesul automat, programul poate suspenda temporar încercările. În cazul întreruperii internetului, informațiile memorate local pot permite continuarea unei sesiuni de lectură.
+
+Aplicația dispune inclusiv de un explorator web, capabil să cerceteze subiecte folosind mai multe surse.
+
+Și satira are loc în redacție!
+
+Pe lângă știrile obișnuite, Andrei Știri poate prezenta și publicații satirice, inclusiv FNN, cu reguli speciale pentru conținutul fictiv.
+
+Proiectul continuă să evolueze, integrând funcții de siguranță, verificare, personalizare și prezentare vocală.
+
+Concluzia FNN: Andrei Știri nu este un jurnalist uman și nici un post de televiziune. Este un program care încearcă să transforme lectura știrilor într-o experiență interactivă.
+
+Iar dacă într-o zi calculatorul va solicita legitimație de presă, probabil vom ști de unde a pornit totul!</description>
+      <content:encoded>Un proiect software dezvoltat în AutoHotkey v2 demonstrează că un calculator obișnuit poate deveni o adevărată redacție digitală. Numele său este Andrei Știri, iar misiunea programului este să descopere, să organizeze și să prezinte vocal știri din numeroase publicații online.
+
+Spre deosebire de un cititor RSS simplu, Andrei Știri dispune de un sistem complex de selecție editorială. Programul analizează titluri, identifică subiecte relevante, estimează durata lecturii și poate solicita acordul utilizatorului înainte de prezentarea detaliilor.
+
+O redacție cu zeci de surse și mai multe limbi
+
+Aplicația poate consulta aproximativ 39 de surse monitorizate, folosind fluxuri RSS, Atom și, în anumite situații, paginile articolelor originale.
+
+Știrile sunt prezentate prin sinteză vocală, cu suport pentru mai multe limbi. Programul poate identifica articole în engleză sau maghiară și poate adapta prezentarea în funcție de limba detectată.
+
+Un sistem denumit „Radar” acordă prioritate anumitor categorii de informații, în timp ce memoria locală limitează repetarea excesivă a acelorași titluri.
+
+Ce se întâmplă când internetul dispare?
+
+Andrei Știri include mecanisme de diagnosticare a conexiunii, monitorizare a erorilor HTTP și protecție împotriva solicitărilor repetate către servere indisponibile.
+
+Dacă o sursă refuză accesul automat, programul poate suspenda temporar încercările. În cazul întreruperii internetului, informațiile memorate local pot permite continuarea unei sesiuni de lectură.
+
+Aplicația dispune inclusiv de un explorator web, capabil să cerceteze subiecte folosind mai multe surse.
+
+Și satira are loc în redacție!
+
+Pe lângă știrile obișnuite, Andrei Știri poate prezenta și publicații satirice, inclusiv FNN, cu reguli speciale pentru conținutul fictiv.
+
+Proiectul continuă să evolueze, integrând funcții de siguranță, verificare, personalizare și prezentare vocală.
+
+Concluzia FNN: Andrei Știri nu este un jurnalist uman și nici un post de televiziune. Este un program care încearcă să transforme lectura știrilor într-o experiență interactivă.
+
+Iar dacă într-o zi calculatorul va solicita legitimație de presă, probabil vom ști de unde a pornit totul!</content:encoded>
+      <media:content url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261112-063901-090cb9.png" medium="image" type="image/png">
+        <media:description>Pisica prezentatoare FNN in studioul de stiri alaturi de sigla Florentina's National Network</media:description>
+      </media:content>
+      <media:thumbnail url="https://fnn.gnica430.workers.dev/Imagini/fnn-20261112-063901-090cb9.png" />
+      <category>Tehnologie</category>
+      <fnn:editorialType>editorial</fnn:editorialType>
+      <fnn:editorialNotice>FNN — Material editorial. Consultați categoria și conținutul pentru a stabili natura și sursele informațiilor.</fnn:editorialNotice>
+      <guid isPermaLink="false">fnn-20261112-063901-090cb9</guid>
+      <pubDate>Thu, 12 Nov 2026 06:39:01 +0200</pubDate>
+    </item>
+    <item>
       <title>🚨 ALERTĂ LA FNN! Creatoarea publicației și asistentul său AI au descoperit un posibil risc: „Nu vrem să oprim roboții, vrem doar să înțeleagă glumele!” 🤖🤣</title>
       <link>https://fnn.gnica430.workers.dev/Articole/fnn-20261112-052609-2851b0.html</link>
       <description>O situație neobișnuită a pus pe jar micuța redacție FNN! Creatoarea publicației și asistentul său AI au descoperit un posibil risc pentru articolele satirice: unele sisteme automate de știri, care utilizează inteligența artificială pentru a analiza și compara informații din mai multe publicații, ar putea interpreta accidental o glumă drept un eveniment real.
